@@ -1,0 +1,11 @@
+C:\Users\dogancan.topel\source\repos\DesignPatterns\Prototype\bin\Debug\netcoreapp2.2\Prototype.deps.json
+C:\Users\dogancan.topel\source\repos\DesignPatterns\Prototype\bin\Debug\netcoreapp2.2\Prototype.runtimeconfig.json
+C:\Users\dogancan.topel\source\repos\DesignPatterns\Prototype\bin\Debug\netcoreapp2.2\Prototype.runtimeconfig.dev.json
+C:\Users\dogancan.topel\source\repos\DesignPatterns\Prototype\bin\Debug\netcoreapp2.2\Prototype.dll
+C:\Users\dogancan.topel\source\repos\DesignPatterns\Prototype\bin\Debug\netcoreapp2.2\Prototype.pdb
+C:\Users\dogancan.topel\source\repos\DesignPatterns\Prototype\obj\Debug\netcoreapp2.2\Prototype.csprojAssemblyReference.cache
+C:\Users\dogancan.topel\source\repos\DesignPatterns\Prototype\obj\Debug\netcoreapp2.2\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\dogancan.topel\source\repos\DesignPatterns\Prototype\obj\Debug\netcoreapp2.2\Prototype.AssemblyInfoInputs.cache
+C:\Users\dogancan.topel\source\repos\DesignPatterns\Prototype\obj\Debug\netcoreapp2.2\Prototype.AssemblyInfo.cs
+C:\Users\dogancan.topel\source\repos\DesignPatterns\Prototype\obj\Debug\netcoreapp2.2\Prototype.dll
+C:\Users\dogancan.topel\source\repos\DesignPatterns\Prototype\obj\Debug\netcoreapp2.2\Prototype.pdb

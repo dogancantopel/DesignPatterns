@@ -1,0 +1,11 @@
+C:\Users\dogancan.topel\source\repos\DesignPatterns\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.deps.json
+C:\Users\dogancan.topel\source\repos\DesignPatterns\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.runtimeconfig.json
+C:\Users\dogancan.topel\source\repos\DesignPatterns\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.runtimeconfig.dev.json
+C:\Users\dogancan.topel\source\repos\DesignPatterns\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.dll
+C:\Users\dogancan.topel\source\repos\DesignPatterns\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.pdb
+C:\Users\dogancan.topel\source\repos\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\dogancan.topel\source\repos\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\dogancan.topel\source\repos\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\dogancan.topel\source\repos\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.AssemblyInfo.cs
+C:\Users\dogancan.topel\source\repos\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.dll
+C:\Users\dogancan.topel\source\repos\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.pdb
